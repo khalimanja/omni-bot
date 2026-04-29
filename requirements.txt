@@ -1,2 +1,0 @@
-# -*- coding: utf-8 -*-
-xai-sdk>=0.1.0
